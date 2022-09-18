@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tablas</title>
+  </head>
+  <body>
+    <table border="1px">
+      <tr>
+        <td>
+          <b><strong>Animal</strong></b>
+        </td>
+        <td>
+          <b><strong>Color</strong></b>
+        </td>
+        <td>
+          <b><strong>País</strong></b>
+        </td>
+      </tr>
+      <tr>
+        <td>Oso</td>
+        <td>Blanco</td>
+        <td>Rusia</td>
+      </tr>
+      <tr>
+        <td>Cóndor</td>
+        <td>Negro</td>
+        <td>Colombia</td>
+      </tr>
+      <tr>
+        <td>Araña</td>
+        <td>Gris</td>
+        <td>Australia</td>
+      </tr>
+    </table>
+  </body>
+</html>
